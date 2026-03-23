@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=200&section=header&text=Hey,%20soy%20Dani!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Web%20Full%20Stack&descAlignY=55&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=200&section=header&text=Hey,%20soy%20Dani!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Desarrollador%20Web%20Full%20Stack&descAlignY=55&descSize=20" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Desarrollador+Web+Full+Stack+%F0%9F%9A%80;Java+%7C+PHP+%7C+HTML+%7C+CSS+%7C+JS;Siempre+aprendiendo%2C+siempre+mejorando;DAW+%C2%B7+Galicia+%F0%9F%87%AA%F0%9F%87%B8" alt="Typing SVG" />
 
@@ -34,7 +34,7 @@ actualmente:   Finalizando DAW · Buscando oportunidades
 
 **Herramientas**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm,netbeans" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,phpstorm" />
 
 </div>
 
