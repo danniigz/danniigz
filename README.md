@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Web Full Stack · DAW · Galicia 🇪🇸</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Apasionada+del+desarrollo+web;Java+%7C+PHP+%7C+HTML%2FCSS%2FJS;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Apasionado+del+desarrollo+web;Java+%7C+PHP+%7C+HTML%2FCSS%2FJS;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 ### 🛠️ Tecnologías que uso
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,php,html,css,js,mysql,git,github,vscode,phpstorm,netbeans" />
 </p>
 
 ---
