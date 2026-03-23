@@ -15,7 +15,7 @@ ubicacion:     Galicia, España 🇪🇸
 estudios:      Desarrollo de Aplicaciones Web (DAW)
 especialidad:  Full Stack Web Development
 intereses:     [Java, PHP, Bases de datos, Frontend]
-actualmente:   Finalizando DAW · Buscando oportunidades
+actualmente:   DAW finalizado · Buscando oportunidades
 ```
 
 ---
@@ -43,12 +43,12 @@ actualmente:   Finalizando DAW · Buscando oportunidades
 ## 📊 Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danniigz&show_icons=true&theme=github_dark&hide_border=true&icon_color=38BDF8&title_color=38BDF8&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danniigz&layout=compact&theme=github_dark&hide_border=true&title_color=38BDF8&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danniigz&show_icons=true&theme=github_dark&hide_border=true&icon_color=0000FF&title_color=0000FF&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danniigz&layout=compact&theme=github_dark&hide_border=true&title_color=0000FF&bg_color=0d1117" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=danniigz&theme=github-dark-blue&hide_border=true&fire=38BDF8&ring=38BDF8&currStreakLabel=38BDF8&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=danniigz&theme=github-dark-blue&hide_border=true&fire=0000FF&ring=0000FF&currStreakLabel=0000FF&background=0d1117" />
 </div>
 
 ---
@@ -56,7 +56,7 @@ actualmente:   Finalizando DAW · Buscando oportunidades
 ## 📈 Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danniigz&theme=github-compact&hide_border=true&color=38BDF8&line=38BDF8&point=ffffff&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danniigz&theme=github-compact&hide_border=true&color=0000FF&line=0000FF&point=ffffff&bg_color=0d1117" />
 </div>
 
 ---
@@ -69,6 +69,6 @@ actualmente:   Finalizando DAW · Buscando oportunidades
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rodriguez-machado-410313346/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danniigz)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=100&section=footer" />
 
 </div>
